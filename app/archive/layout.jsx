@@ -5,7 +5,6 @@ export default function ArchiveLayout({ archive, latest }) {
         <section id="archive-filter">
             {archive}
         </section>
-        <h1>Latest News</h1>
         <section id="latest-news">
             {latest}
         </section>
